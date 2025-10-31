@@ -1,5 +1,30 @@
 # 🐸 FrogPack — The Day WinRAR Finally Croaked
 
+<div align="center">
+
+<!-- 🧠 Base -->
+<img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+<img src="https://img.shields.io/badge/Status-Stable-brightgreen.svg" alt="Status: Stable">
+<img src="https://img.shields.io/badge/OpenSource-YES-blue.svg" alt="OpenSource: YES">
+<img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg" alt="Platform">
+<img src="https://img.shields.io/badge/Python-3.12%2B-blue.svg" alt="Python Version">
+
+<br><br>
+
+<!-- ⚙️ Técnicos -->
+<img src="https://img.shields.io/badge/Compression-Zstd%20%7C%20Brotli%20%7C%20LZMA2-orange.svg" alt="Compression Methods">
+<img src="https://img.shields.io/badge/Dictionary-1MiB%2B-purple.svg" alt="Dictionary Size">
+<img src="https://img.shields.io/badge/Heuristic-Never--Inflate-yellow.svg" alt="Heuristic">
+<img src="https://img.shields.io/badge/Mode-GUI--Only-pink.svg" alt="Mode">
+<img src="https://img.shields.io/badge/Hybrid-STD%2FRAWN-red.svg" alt="Hybrid STD/RAWN">
+
+<br><br>
+
+<!-- 🐸 Temáticos -->
+<img src="https://img.shields.io/badge/FrogPack-The%20Day%20WinRAR%20Finally%20Croaked-00cc66.svg?logo=frog&logoColor=white" alt="Frog Approved">
+<img src="https://img.shields.io/badge/Magic-Compressed%20by%20a%20Frog-9966ff.svg" alt="Arcane Energy">
+<img src="https://img.shields.io/badge/Lagoa%20Arcana-Certified-blueviolet.svg" alt="Lagoa Arcana Certified">
+<img src="https://img.shields.io/badge/Frog%20Corporation-Official%20Build-006400.svg" alt="Frog Corporation">
 
 
 
