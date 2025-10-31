@@ -3,28 +3,56 @@
 <div align="center">
 
 <!-- 🧠 Base -->
-<img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
-<img src="https://img.shields.io/badge/Status-Stable-brightgreen.svg" alt="Status: Stable">
-<img src="https://img.shields.io/badge/OpenSource-YES-blue.svg" alt="OpenSource: YES">
-<img src="https://img.shields.io/badge/Platform-Windows-lightgrey.svg" alt="Platform">
-<img src="https://img.shields.io/badge/Python-3.12%2B-blue.svg" alt="Python Version">
+<a href="https://github.com/victormeloasm/frogpack/blob/main/LICENSE">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+</a>
+<a href="https://github.com/victormeloasm/frogpack">
+  <img src="https://img.shields.io/badge/Status-Stable-brightgreen.svg" alt="Status: Stable">
+</a>
+<a href="https://opensource.org/">
+  <img src="https://img.shields.io/badge/OpenSource-YES-blue.svg" alt="OpenSource: YES">
+</a>
+<a href="https://github.com/victormeloasm/frogpack">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg" alt="Platform">
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3.12%2B-blue.svg" alt="Python Version">
+</a>
 
 <br><br>
 
 <!-- ⚙️ Técnicos -->
-<img src="https://img.shields.io/badge/Compression-Zstd%20%7C%20Brotli%20%7C%20LZMA2-orange.svg" alt="Compression Methods">
-<img src="https://img.shields.io/badge/Dictionary-1MiB%2B-purple.svg" alt="Dictionary Size">
-<img src="https://img.shields.io/badge/Heuristic-Never--Inflate-yellow.svg" alt="Heuristic">
-<img src="https://img.shields.io/badge/Mode-GUI--Only-pink.svg" alt="Mode">
-<img src="https://img.shields.io/badge/Hybrid-STD%2FRAWN-red.svg" alt="Hybrid STD/RAWN">
+<a href="https://facebook.github.io/zstd/">
+  <img src="https://img.shields.io/badge/Compression-Zstd%20%7C%20Brotli%20%7C%20LZMA2-orange.svg" alt="Compression Methods">
+</a>
+<a href="https://github.com/facebook/zstd/blob/dev/doc/zstd_compression_format.md#dictionary-format">
+  <img src="https://img.shields.io/badge/Dictionary-1MiB%2B-purple.svg" alt="Dictionary Size">
+</a>
+<a href="https://github.com/victormeloasm/frogpack/wiki/Heuristic-Never-Inflate">
+  <img src="https://img.shields.io/badge/Heuristic-Never--Inflate-yellow.svg" alt="Heuristic">
+</a>
+<a href="https://github.com/victormeloasm/frogpack">
+  <img src="https://img.shields.io/badge/Mode-GUI--Only-pink.svg" alt="Mode">
+</a>
+<a href="https://github.com/victormeloasm/frogpack/wiki/STD-RAWN-Mode">
+  <img src="https://img.shields.io/badge/Hybrid-STD%2FRAWN-red.svg" alt="Hybrid STD/RAWN">
+</a>
 
 <br><br>
 
 <!-- 🐸 Temáticos -->
-<img src="https://img.shields.io/badge/FrogPack-The%20Day%20WinRAR%20Finally%20Croaked-00cc66.svg?logo=frog&logoColor=white" alt="Frog Approved">
-<img src="https://img.shields.io/badge/Magic-Compressed%20by%20a%20Frog-9966ff.svg" alt="Arcane Energy">
-<img src="https://img.shields.io/badge/Lagoa%20Arcana-Certified-blueviolet.svg" alt="Lagoa Arcana Certified">
-<img src="https://img.shields.io/badge/Frog%20Corporation-Official%20Build-006400.svg" alt="Frog Corporation">
+<a href="https://github.com/victormeloasm/frogpack">
+  <img src="https://img.shields.io/badge/FrogPack-The%20Day%20WinRAR%20Finally%20Croaked-00cc66.svg?logo=frog&logoColor=white" alt="Frog Approved">
+</a>
+<a href="https://github.com/victormeloasm/frogpack">
+  <img src="https://img.shields.io/badge/Magic-Compressed%20by%20a%20Frog-9966ff.svg" alt="Arcane Energy">
+</a>
+<a href="https://github.com/victormeloasm/frogpack/wiki/Lagoa-Arcana">
+  <img src="https://img.shields.io/badge/Lagoa%20Arcana-Certified-blueviolet.svg" alt="Lagoa Arcana Certified">
+</a>
+<a href="https://github.com/victormeloasm">
+  <img src="https://img.shields.io/badge/Frog%20Corporation-Official%20Build-006400.svg" alt="Frog Corporation">
+</a>
 
 
 
