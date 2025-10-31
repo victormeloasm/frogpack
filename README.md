@@ -1,5 +1,17 @@
 # 🐸 FrogPack — The Day WinRAR Finally Croaked
 
+
+
+
+<p align="center">
+  <img src="logo.png" alt="FrogPack — magical frog compressing a cube" width="220">
+</p>
+
+
+
+
+
+
 ![FrogPack GUI](src/wk.png)
 
 **FrogPack** is not just another archiver. It’s a *hybrid intelligent compressor* forged in the sacred swamps of modern computing — combining the raw speed of **Zstandard**, the density of **Brotli**, the elegance of **LZMA2**, and the lightning reflexes of **LZ4**, all wrapped inside a reversible container that makes WinRAR and 7-Zip look like ancient relics from 2003.
