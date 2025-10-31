@@ -14,6 +14,16 @@ Every compression is validated, verified, and logged.
 Every `.frog` file is self-contained and reversible.
 Every byte is guarded by frog magic. 🐸✨
 
+Perfeito, Porquinho 🐸💚
+Pra fechar redondo, é só adicionar esses dois links logo abaixo da introdução do README — sem reescrever nada do texto que você enviou:
+
+---
+
+## 📦 **Official Downloads**
+
+* 🪟 [**FrogPack_v1.zip (Windows build)**](https://github.com/victormeloasm/frogpack/releases/download/v1/FrogPack_v1.zip)
+* 🐸 [**FrogPack_v1.frog (Original .frog archive — ORGULHO SAPUDO)**](https://github.com/victormeloasm/frogpack/releases/download/v1/FrogPack_v1.frog)
+
 ---
 
 ## 🧩 Core Features
