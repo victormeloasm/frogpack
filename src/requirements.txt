@@ -1,0 +1,14 @@
+numpy
+zstandard
+pyzstd
+brotli
+lz4
+Pillow
+loguru
+rich
+pandas
+scipy
+python-magic-bin
+filetype
+joblib
+multiprocess
