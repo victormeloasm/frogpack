@@ -57,11 +57,6 @@
   <img src="https://img.shields.io/badge/Frog%20Corporation-Official%20Build-006400.svg" alt="Frog Corporation">
 </a>
 
-<br><br>
-
-<a href="https://github.com/victormeloasm/frogpack"><b>🔗 GitHub Repository</b></a>
-
-</div>
 
 
 
