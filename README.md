@@ -12,8 +12,8 @@
 <a href="https://opensource.org/">
   <img src="https://img.shields.io/badge/OpenSource-YES-blue.svg" alt="OpenSource: YES">
 </a>
-<a href="https://github.com/victormeloasm/frogpack">
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg" alt="Platform">
+<a href="https://www.microsoft.com/windows">
+  <img src="https://img.shields.io/badge/Platform-Windows%2010%2B-0078D6.svg?logo=windows&logoColor=white" alt="Platform: Windows">
 </a>
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3.12%2B-blue.svg" alt="Python Version">
@@ -22,17 +22,20 @@
 <br><br>
 
 <!-- ⚙️ Técnicos -->
-<a href="https://facebook.github.io/zstd/">
-  <img src="https://img.shields.io/badge/Compression-Zstd%20%7C%20Brotli%20%7C%20LZMA2-orange.svg" alt="Compression Methods">
+<a href="https://en.wikipedia.org/wiki/Zstandard">
+  <img src="https://img.shields.io/badge/Compression-Zstd-orange.svg" alt="Zstandard Compression">
 </a>
-<a href="https://github.com/facebook/zstd/blob/dev/doc/zstd_compression_format.md#dictionary-format">
-  <img src="https://img.shields.io/badge/Dictionary-1MiB%2B-purple.svg" alt="Dictionary Size">
+<a href="https://en.wikipedia.org/wiki/Brotli">
+  <img src="https://img.shields.io/badge/Compression-Brotli-orange.svg" alt="Brotli Compression">
 </a>
-<a href="https://github.com/victormeloasm/frogpack/wiki/Heuristic-Never-Inflate">
-  <img src="https://img.shields.io/badge/Heuristic-Never--Inflate-yellow.svg" alt="Heuristic">
+<a href="https://en.wikipedia.org/wiki/Lempel–Ziv–Markov_chain_algorithm">
+  <img src="https://img.shields.io/badge/Compression-LZMA2-orange.svg" alt="LZMA2 Compression">
 </a>
-<a href="https://github.com/victormeloasm/frogpack">
-  <img src="https://img.shields.io/badge/Mode-GUI--Only-pink.svg" alt="Mode">
+<a href="https://en.wikipedia.org/wiki/LZ4_(compression_algorithm)">
+  <img src="https://img.shields.io/badge/Compression-LZ4-orange.svg" alt="LZ4 Compression">
+</a>
+<a href="https://en.wikipedia.org/wiki/Data_deduplication">
+  <img src="https://img.shields.io/badge/Feature-Deduplication-yellow.svg" alt="Deduplication Feature">
 </a>
 <a href="https://github.com/victormeloasm/frogpack/wiki/STD-RAWN-Mode">
   <img src="https://img.shields.io/badge/Hybrid-STD%2FRAWN-red.svg" alt="Hybrid STD/RAWN">
@@ -44,7 +47,7 @@
 <a href="https://github.com/victormeloasm/frogpack">
   <img src="https://img.shields.io/badge/FrogPack-The%20Day%20WinRAR%20Finally%20Croaked-00cc66.svg?logo=frog&logoColor=white" alt="Frog Approved">
 </a>
-<a href="https://github.com/victormeloasm/frogpack">
+<a href="https://en.wikipedia.org/wiki/Data_compression">
   <img src="https://img.shields.io/badge/Magic-Compressed%20by%20a%20Frog-9966ff.svg" alt="Arcane Energy">
 </a>
 <a href="https://github.com/victormeloasm/frogpack/wiki/Lagoa-Arcana">
@@ -53,6 +56,12 @@
 <a href="https://github.com/victormeloasm">
   <img src="https://img.shields.io/badge/Frog%20Corporation-Official%20Build-006400.svg" alt="Frog Corporation">
 </a>
+
+<br><br>
+
+<a href="https://github.com/victormeloasm/frogpack"><b>🔗 GitHub Repository</b></a>
+
+</div>
 
 
 
