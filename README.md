@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
 <img src="https://img.shields.io/badge/Status-Stable-brightgreen.svg" alt="Status: Stable">
 <img src="https://img.shields.io/badge/OpenSource-YES-blue.svg" alt="OpenSource: YES">
-<img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg" alt="Platform">
+<img src="https://img.shields.io/badge/Platform-Windows-lightgrey.svg" alt="Platform">
 <img src="https://img.shields.io/badge/Python-3.12%2B-blue.svg" alt="Python Version">
 
 <br><br>
